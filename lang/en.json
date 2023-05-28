@@ -1,0 +1,18 @@
+{
+  "default": {
+    "newest": "Newest",
+    "popular": "Popular",
+    "intro-cta": "Submit Your Project",
+    "intro-title": "Built for Hyperscale with Mantle",
+    "all-dapps-cta": "All dApps",
+    "show-dapps-cta": "Show all dApps",
+    "intro-subtitle-1": "dApps built on Mantle benefit from low fees, high scalability,  and Ethereum-level security",
+    "intro-subtitle-2": "Join us in building on the first modular layer-2 chain on Ethereum",
+    "our-picks-subtitle": "🔥 Our picks",
+    "share-project-desc": "Built on Mantle and would love to showcase your project to the entire community? Simply submit the information below!",
+    "explore-dapps-title": "Explore All dApps",
+    "share-project-title": "Share your project",
+    "ecosystem-disclaimer": "DISCLAIMER: dApps listed on this page are deployed on Mantle Network but are not operated by the Mantle Network team.",
+    "highlighted-dapps-title": "Highlighted dApps"
+  }
+}
